@@ -3,7 +3,7 @@ Practice repository for the IEEE DBIT CS Open Source Contribution Workshop.
 
 # Welcome to the IEEE DBIT CS First Contribution Workshop!
 
-![IEEE CS Logo]([https://i.imgur.com/vDe7w0l.png](https://upload.wikimedia.org/wikipedia/en/4/47/IEEE_Computer.png)) This repository is a practice ground for making your very first open source contribution. We're excited to have you here!
+![IEEE CS Logo]([[https://i.imgur.com/vDe7w0l.png](https://upload.wikimedia.org/wikipedia/en/4/47/IEEE_Computer.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AIEEE_Computer.png&psig=AOvVaw0YlvB6fZrG8wcwbFz_aQNK&ust=1753284247470000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCx1vfi0I4DFQAAAAAdAAAAABAE)) This repository is a practice ground for making your very first open source contribution. We're excited to have you here!
 
 ➡️ **Looking for the workshop slides?** You can find the full presentation [at this link](https://github.com/your-username/your-slides-repo). ⬅️
 *(Remember to replace the link above with the actual URL to your slides repository!)*
