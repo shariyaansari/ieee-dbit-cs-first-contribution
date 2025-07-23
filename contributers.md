@@ -13,3 +13,4 @@ We look forward to your contribution!
 Thank you to everyone who has participated in our workshop and contributed to this project!
 
 - [Shariya Ansati](https://github.com/shariyaansari) - Goal: To become a Sorfware engineer.
+- [Harshita Vyas](https://github.com/Harshita460)`
