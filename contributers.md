@@ -14,3 +14,4 @@ Thank you to everyone who has participated in our workshop and contributed to th
 
 - [Shariya Ansari](https://github.com/shariyaansari) - Goal: To become a Software engineer.
 - [Aditya Sabnis](https://github.com/AVENGERSTHE2102)- Goal : To get all clear in All semester.
+- [Kathan Shethia](https://github.com/Knshethia28) Goal: To become a Software engineer.
