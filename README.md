@@ -5,8 +5,8 @@ Practice repository for the IEEE DBIT CS Open Source Contribution Workshop.
 
 This repository is a practice ground for making your very first open source contribution. We're excited to have you here!
 
-➡️ **Looking for the workshop slides?** You can find the full presentation [at this link](https://github.com/your-username/your-slides-repo). ⬅️
-*(Remember to replace the link above with the actual URL to your slides repository!)*
+➡️ **Looking for the workshop slides?** You can find the full presentation [marp ppt link]((https://github.com/shariyaansari/Open-Source-Contribution)). ⬅️
+➡️ **Looking for the workshop slides (Canva Slides)?** You can find the full presentation [Canva PPT]((https://www.canva.com/design/DAGtzlQwh8U/jEKPMvdQTj4J78gRRpBRXg/edit?utm_content=DAGtzlQwh8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)). ⬅️
 
 ---
 
