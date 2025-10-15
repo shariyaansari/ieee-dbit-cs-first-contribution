@@ -15,3 +15,6 @@ Thank you to everyone who has participated in our workshop and contributed to th
 - [Shariya Ansati](https://github.com/shariyaansari) - Goal: To become a Sorfware engineer.
 
 - [Parth Shikhare](https://github.com/ParthShikhare19) - Goal: To become a Sorfware engineer.
+
+- [Nischay](https://github.com/Nischay-loq) - Goal: To become a Sorfware engineer.
+
